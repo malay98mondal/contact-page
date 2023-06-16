@@ -1,0 +1,18 @@
+#workmap{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    row-gap: 100000px;
+}
+p{
+    color:blueviolet;
+}
+#name{
+    color: blue;
+    text-align: center;
+}
+#flex{
+    display: flex;
+    gap: 150px;
+    
+}
